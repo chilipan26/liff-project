@@ -48,7 +48,7 @@ index.html
 </div>
 
 <script>
-const GAS_URL = "ここにGASのWebアプリURLを貼る";
+const GAS_URL = "https://script.google.com/macros/s/AKfycbwjbPtu-67Rtgb2kc6aEJJ_uQUuJk_3349F3eYirzifT2NTNRrH5Fi_K9Ae6_40F6_THg/exec";
 
 function showCreate() {
   document.getElementById("createArea").classList.remove("hidden");
